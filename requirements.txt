@@ -1,1 +1,3 @@
-# keine externen Pakete nötig
+Flask==2.3.3
+Flask-SocketIO==6.6.2
+eventlet==0.33.3
